@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src = "https://github.com/sashanksilwal/sashanksilwal/blob/master/banner-text.gif" width = 600>
 I am a rising sophomore majoring in computer science and minoring in Interactive Media and Applied Maths at NYUAD. I am interested in Web Development (full stack development), Data Visualization, and Data Mining. 
 
 ### Contact Me 📫👩🏻‍💻
