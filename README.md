@@ -17,4 +17,4 @@ I am a rising sophomore majoring in computer science and minoring in Interactive
 
 ### Contact Me 📫👩🏻‍💻
 - Check out my [LinkedIn](https://www.linkedin.com/in/sashank-silwal-a3606a1a0/) profile for professional updates
-- Learn more about what I've done at my [website](https://sashanksilwal.github.io)!
+- Learn more about what I've done at my [website](https://sashanksilwal.github.io)! or [art portfolio](https://sashanksilwal.github.io/portfolio/index.html)!
