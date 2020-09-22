@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **sashanksilwal/sashanksilwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a rising sophomore majoring in computer science and mining in Interactive Media and Applied Maths at NYUAD. I am interested in Web Development (full stack development), Data Visualization, and Data Minioning. 
+
+### Contact Me 📫👩🏻‍💻
+- Check out my [LinkedIn](https://www.linkedin.com/in/sashank-silwal-a3606a1a0/) profile for professional updates
+- Learn more about what I've done at my [website](https://sashanksilwal.github.io)!
