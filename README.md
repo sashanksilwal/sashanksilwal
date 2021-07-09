@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src = "https://github.com/sashanksilwal/sashanksilwal/blob/master/banner-text.gif" width = 600>
+<img src = "https://github.com/sashanksilwal/sashanksilwal/blob/master/banner-text.gif" width = 100% height = 50%>
   </p>
 I am a junior majoring in computer science and minoring in Interactive Media and Applied Maths at New York University Abu Dhabi. I am interested in Web Development (full stack development) and Machine Learning. 
 
