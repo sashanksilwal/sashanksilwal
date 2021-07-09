@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src = "https://github.com/sashanksilwal/sashanksilwal/blob/master/banner-text.gif" width = 600>
   </p>
-I am a sophomore majoring in computer science and minoring in Interactive Media and Applied Maths at NYUAD. I am interested in Web Development (full stack development) and Data Science. 
+I am a junior majoring in computer science and minoring in Interactive Media and Applied Maths at New York University Abu Dhabi. I am interested in Web Development (full stack development) and Machine Learning. 
 
 ### Contact Me 📫👩🏻‍💻
 - Check out my [LinkedIn](https://www.linkedin.com/in/sashank-silwal-a3606a1a0/) profile for professional updates
