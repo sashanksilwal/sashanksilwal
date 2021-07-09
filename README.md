@@ -19,4 +19,4 @@ I am a junior majoring in computer science and minoring in Interactive Media and
 
 ### Contact Me 📫👩🏻‍💻
 - Check out my [LinkedIn](https://www.linkedin.com/in/sashank-silwal-a3606a1a0/) profile for professional updates
-- Learn more about what I've done at my [website](https://ssilwal.com.np)! or [art portfolio](https://sashanksilwal.github.io/portfolio/index.html)!
+- Learn more about what I've done at my [website](http://ssilwal.com.np)! or [art portfolio](https://sashanksilwal.github.io/portfolio/index.html)!
