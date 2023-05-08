@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src = "https://github.com/sashanksilwal/sashanksilwal/blob/master/banner-text.gif" width = 100% height = 50%>
   </p>
-Hi 👋 My name is Sashank and I am a senior studying Computer Science. I have always loved building scalable tech solutions to challenging problems. I am interested in Web Development (full stack development), iOS development and Machine Learning. 
+Hi 👋 My name is Sashank and I am a Computer Science graduate from NYU. I have always loved building scalable tech solutions to challenging problems. I am interested in Web Development (full stack development), iOS development and Machine Learning. 
 
 ### Contact Me 📫👩🏻‍💻
 - Check out my [LinkedIn](https://www.linkedin.com/in/sashank-silwal-a3606a1a0/) profile for professional updates
