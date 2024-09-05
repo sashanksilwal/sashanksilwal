@@ -1,23 +1,5 @@
-<!--
-**sashanksilwal/sashanksilwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Sashank, a Computer Science graduate from NYU. I have a passion for developing scalable tech solutions to tackle complex problems
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-<img src = "https://github.com/sashanksilwal/sashanksilwal/blob/master/banner-text.gif" width = 100% height = 50%>
-  </p>
-Hi 👋 My name is Sashank and I am a Computer Science graduate from NYU. I have always loved building scalable tech solutions to challenging problems.  
-
-### Contact Me 📫👩🏻‍💻
-- Check out my [LinkedIn](https://www.linkedin.com/in/sashank-silwal-a3606a1a0/) profile for professional updates
-- Learn more about what I've done at my [website](http://ssilwal.com.np)!
-<!-- -  or [art portfolio](https://sashanksilwal.github.io/portfolio/index.html)! -->
+### Get in Touch 📫👨‍💻
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/sashank-silwal-a3606a1a0/) to stay updated on my professional journey.
+- Discover more about my work and interests on my [website](http://ssilwal.com.np).
