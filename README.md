@@ -16,9 +16,15 @@ Hi 👋, I'm Sashank, a Computer Science graduate from NYU. I have a passion for
 - **Open Source Contributions**: 
 
 ## 🌱 What I’m Learning
-- Expanding my knowledge of **deep learning** models
-- Diving deeper into **backend development** by exploring **scalable architectures**, **RESTful APIs**, **gRPC**, and **microservices** using frameworks like **Django** and **Flask**. Expanding my expertise in **database optimization**, **asynchronous programming** (using **Celery** and **AsyncIO**), and **containerization** with **Docker** and **Kubernetes** for deployment at scale.
-
+- **Deep Learning**: I am continuously expanding my knowledge of **deep learning** models, focusing on advanced architectures like **transformers**, **LSTMs**, and **CNNs**. I aim to apply these models in domains like **NLP**, **computer vision**, and **recommendation systems**.
+  
+- **Recommendation Systems**: Currently, I’m learning about **recommendation algorithms** such as **collaborative filtering**, **content-based filtering**, **hybrid approaches**, and how to build scalable, production-ready systems for personalized recommendations.
+  
+- **Backend Development**:
+  - Exploring **scalable architectures** and **RESTful APIs**.
+  - Diving deeper into **gRPC**, **microservices**, and backend frameworks like **Django** and **Flask**.
+  - Enhancing my skills in **database optimization** and **asynchronous programming** using **Celery** and **AsyncIO**.
+  - Embracing **containerization** using **Docker** and **Kubernetes** for deploying applications at scale​
 
 ## Get in Touch 📫👨‍💻
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/sashank-silwal-a3606a1a0/) to stay updated on my professional journey.
