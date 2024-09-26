@@ -24,7 +24,7 @@ Hi 👋, I'm Sashank, a Computer Science graduate from NYU. I have a passion for
   - Exploring **scalable architectures** and **RESTful APIs**.
   - Diving deeper into **gRPC**, **microservices**, and backend frameworks like **Django** and **Flask**.
   - Enhancing my skills in **database optimization** and **asynchronous programming** using **Celery** and **AsyncIO**.
-  - Embracing **containerization** using **Docker** and **Kubernetes** for deploying applications at scale​⬤
+  - Embracing **containerization** using **Docker** and **Kubernetes** for deploying applications at scale​
 
 ## Get in Touch 📫👨‍💻
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/sashank-silwal-a3606a1a0/) to stay updated on my professional journey.
