@@ -1,32 +1,43 @@
 <img src="https://komarev.com/ghpvc/?username=sashanksilwal" width="70" height="15" />
 
-Hi 👋, I'm Sashank, a Computer Science graduate from NYU. I have a passion for developing scalable tech solutions to tackle complex problems
+# Hi 👋, I'm Sashank  
 
-## 🛠️ Tech Stack
+I’m a **Computer Science graduate from NYU Abu Dhabi** and a **Master’s student in Computer Science at Purdue University**.  
+I’m passionate about building **scalable machine learning systems**, developing **fraud detection pipelines**, and integrating **AI-driven solutions** into real-world applications.  
 
-- **Languages**: Python, SQL, JavaScript
-- **Frameworks/Libraries**: TensorFlow, SHAP, Scikit-learn, Pandas, NumPy, Matplotlib, PySpark, Flask, React, Node.js, Express
-- **Data Tools**: BigQuery, Hadoop, MongoDB, PostgreSQL, Looker
-- **Cloud & DevOps**: Docker, Kubernetes, Airflow
-- **Version Control**: Git, GitHub, Jira
+---
 
-## 🚀 What I’m Working On
+## 🛠️ Tech Stack  
 
-- **Fraud Detection at Scale**: Developing machine learning models and generating rules for **fraud detection** 
-- **Open Source Contributions**: 
+- **Languages**: Python, SQL, JavaScript  
+- **Frameworks & Libraries**: TensorFlow, PyTorch, Scikit-learn, SHAP, Pandas, NumPy, Matplotlib, PySpark, Flask, React, Node.js, Express  
+- **Data Tools**: BigQuery, Hadoop, MongoDB, PostgreSQL, Looker  
+- **Cloud & DevOps**: AWS, GCP, Docker, Kubernetes, Airflow  
+- **Version Control & Collaboration**: Git, GitHub, Jira  
 
-## 🌱 What I’m Learning
-- **Deep Learning**: I am continuously expanding my knowledge of **deep learning** models, focusing on advanced architectures like **transformers**, **LSTMs**, and **CNNs**. I aim to apply these models in domains like **NLP**, **computer vision**, and **recommendation systems**.
-  
-- **Recommendation Systems**: Currently, I’m learning about **recommendation algorithms** such as **collaborative filtering**, **content-based filtering**, **hybrid approaches**, and how to build scalable, production-ready systems for personalized recommendations.
-  
-- **Backend Development**:
-  - Exploring **scalable architectures** and **RESTful APIs**.
-  - Diving deeper into **gRPC**, **microservices**, and backend frameworks like **Django** and **Flask**.
-  - Enhancing my skills in **database optimization** and **asynchronous programming** using **Celery** and **AsyncIO**.
-  - Embracing **containerization** using **Docker** and **Kubernetes** for deploying applications at scale​
+---
 
-## Get in Touch 📫👨‍💻
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/sashank-silwal-a3606a1a0/) to stay updated on my professional journey.
-- Discover more about my work and interests on my [website](http://ssilwal.com.np).
+## 🚀 What I’m Working On  
 
+- **Fraud Detection at Scale**: Designing and deploying ML models and **rule-generation engines** for large-scale fraud detection.  
+- **Research in Urban Weather Modeling**: Running **WRF/HRLDAS/ENVI-met simulations** at Purdue to study micro-climate and forestry impacts in urban areas.  
+- **Open Source Contributions**: Sharing tools, scripts, and workflows for **data science, geospatial modeling, and ML research**.  
+
+---
+
+## 🌱 What I’m Learning  
+
+- **Deep Learning Architectures**: Transformers, LSTMs, CNNs, and their applications in **NLP**, **computer vision**, and **recommendation systems**.  
+- **Recommendation Systems**: Exploring collaborative filtering, content-based filtering, and hybrid scalable systems.  
+- **Backend & Distributed Systems**:  
+  - Building **RESTful APIs** and experimenting with **gRPC** & **microservices**.  
+  - Optimizing databases and exploring **asynchronous pipelines** (Celery, AsyncIO).  
+  - Deploying ML applications at scale with **Docker** and **Kubernetes**.  
+
+---
+
+## 📫 Get in Touch  
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/sashank-silwal/)  
+
+---
