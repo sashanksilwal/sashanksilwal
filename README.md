@@ -11,4 +11,6 @@ I write Python day-to-day (PyTorch, pandas, the usual), SQL when the data is big
 
 Outside of that, I'm slowly working through deep learning papers on recommendation systems and trying to get better at writing backend services that don't fall over (gRPC, async pipelines, the usual sharp edges).
 
+I write some of this stuff up at [ssilwal.com.np/blog](https://ssilwal.com.np/blog/).
+
 Reach me on [LinkedIn](https://www.linkedin.com/in/sashank-silwal/) if you want to talk.
