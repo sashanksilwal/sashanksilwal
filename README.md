@@ -1,43 +1,14 @@
-<img src="https://komarev.com/ghpvc/?username=sashanksilwal" width="70" height="15" />
+# Sashank Silwal
 
-# Hi 👋, I'm Sashank  
+CS grad from NYU Abu Dhabi, currently doing a master's in CS at Purdue.
 
-I’m a **Computer Science graduate from NYU Abu Dhabi** and a **Master’s student in Computer Science at Purdue University**.  
-I’m passionate about building **scalable machine learning systems**, developing **fraud detection pipelines**, and integrating **AI-driven solutions** into real-world applications.  
+Most of my work right now sits in two places:
 
----
+- **Fraud detection at scale.** Model pipelines and rule-generation engines for catching bad actors in large transaction streams. A lot of the interesting problems here are about latency and explainability, not just accuracy. There's a [public write-up](https://www.binance.com/en/blog/tech/4582519158590222265) of the system if you want the details.
+- **GPU-accelerated simulation + physics-informed ML for urban microclimates** at Purdue. Most of the actual work has been backend: a Redis/Celery job queue dispatching simulation runs across multiple servers and worker pools, with the ML layer sitting on top of that. The science question is how trees and built surfaces shift local temperatures, but I've spent more time on distributed systems than I expected when I signed up.
 
-## 🛠️ Tech Stack  
+I write Python day-to-day (PyTorch, pandas, the usual), SQL when the data is big enough to warrant it, and JavaScript when I'm building something with a UI. I'm comfortable in the AWS/GCP toolchain. BigQuery and Airflow are what I reach for most often.
 
-- **Languages**: Python, SQL, JavaScript  
-- **Frameworks & Libraries**: TensorFlow, PyTorch, Scikit-learn, SHAP, Pandas, NumPy, Matplotlib, PySpark, Flask, React, Node.js, Express  
-- **Data Tools**: BigQuery, Hadoop, MongoDB, PostgreSQL, Looker  
-- **Cloud & DevOps**: AWS, GCP, Docker, Kubernetes, Airflow  
-- **Version Control & Collaboration**: Git, GitHub, Jira  
+Outside of that, I'm slowly working through deep learning papers on recommendation systems and trying to get better at writing backend services that don't fall over (gRPC, async pipelines, the usual sharp edges).
 
----
-
-## 🚀 What I’m Working On  
-
-- **Fraud Detection at Scale**: Designing and deploying ML models and **rule-generation engines** for large-scale fraud detection.  
-- **Research in Urban Weather Modeling**: Running **WRF/HRLDAS/ENVI-met simulations** at Purdue to study micro-climate and forestry impacts in urban areas.  
-- **Open Source Contributions**: Sharing tools, scripts, and workflows for **data science, geospatial modeling, and ML research**.  
-
----
-
-## 🌱 What I’m Learning  
-
-- **Deep Learning Architectures**: Transformers, LSTMs, CNNs, and their applications in **NLP**, **computer vision**, and **recommendation systems**.  
-- **Recommendation Systems**: Exploring collaborative filtering, content-based filtering, and hybrid scalable systems.  
-- **Backend & Distributed Systems**:  
-  - Building **RESTful APIs** and experimenting with **gRPC** & **microservices**.  
-  - Optimizing databases and exploring **asynchronous pipelines** (Celery, AsyncIO).  
-  - Deploying ML applications at scale with **Docker** and **Kubernetes**.  
-
----
-
-## 📫 Get in Touch  
-
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/sashank-silwal/)  
-
----
+Reach me on [LinkedIn](https://www.linkedin.com/in/sashank-silwal/) if you want to talk.
